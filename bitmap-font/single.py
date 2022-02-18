@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+获取单个汉字的（HZK16）点阵字体的二进制表示数
 参考文章链接：
 https://blog.csdn.net/weixin_39623050/article/details/110423917
 https://gist.github.com/dengyt2018/c805f22ae8e3bda3c8d6129524c74b49

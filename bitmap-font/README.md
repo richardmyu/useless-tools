@@ -12,5 +12,3 @@
 8.[8×8LED点阵显示汉字](https://www.docin.com/p-278287047.html)
 9.[16*16点阵字库HZK16的使用_正在格式化……-程序员ITS401_hzk16](https://its401.com/article/GSH_Hello_World/69952985)
 10.[点阵汉字的处理（HZK16、HZK24、HZK32、HZK48下载）](https://blog.sciencenet.cn/blog-1750-508750.html)
-
-
